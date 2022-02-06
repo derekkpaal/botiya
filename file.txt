@@ -1,0 +1,3 @@
+"ip":"derekkpaal.aternos.me",
+"port":"14395",
+"name":"botiya"
